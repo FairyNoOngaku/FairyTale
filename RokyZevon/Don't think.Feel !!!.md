@@ -1,10 +1,10 @@
-> 原：ハートだけが　知っているんだ　僕らの　行き先を
+﻿> 原：ハートだけが　知っているんだ　僕らの　行き先を
 
   翻：心中的温柔，一起来守候，有你有我，一路手牵手
   
 > 原：いつだって　D'ont think Feel !!!
 
-  翻：Welcome to the Fairy Tale!!!
+  翻：Welcome to the Fairy Tale !!!
   
 
 > 原：Change!　アタマ埋め尽くす　消去不能な不安
@@ -54,7 +54,7 @@
   
 > 原：いつだってDon't think.　Feel !!!
 
-  翻：Welcome to the Fairy Tale!!!
+  翻：Welcome to the Fairy Tale !!!
   
 > 原：走り出せ!!!
 
@@ -136,11 +136,11 @@
   
 > 原：ハ一トだけが知っているんだ　僕らの行き先を
 
-  翻：
+  翻：心中的温柔，一起来守候，有你有我，一路手牵手
   
 > 原：いつだってDon't think.　Feel !!!
 
-  翻：
+  翻：Welcome to the Fairy Tale !!!
   
 > 原：走り出せ!!!
 
